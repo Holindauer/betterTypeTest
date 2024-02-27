@@ -1,0 +1,2 @@
+# betterTypeTest
+better typing test
